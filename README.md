@@ -16,7 +16,7 @@ This tool is robust and awesome, because it is simple.
 
 ## Tool
 
-This tool was tested on macOS Monterey (Version 12.1).
+This tool was tested on macOS Monterey (Version 12.1) and macOS Ventura (Version 13.3).
 
 #### Pre-Requirements
 
